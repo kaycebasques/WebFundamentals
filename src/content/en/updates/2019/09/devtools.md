@@ -21,8 +21,6 @@ description: Lighthouse 5.2 in the Audits panel, and Largest Contentful Paint in
 You can now use the **Audits** panel in combination with other DevTools features like
 [Request Blocking][urlblocks] and [Local Overrides][overrides].
 
-[demo]: https://devtools.glitch.me/wndt78/multiclient.html
-
 [renderblocks]: https://web.dev/render-blocking-resources
 
 For example, suppose that your **Audits** panel report says that your page's performance
